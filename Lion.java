@@ -1,4 +1,4 @@
-public class Lion extends Animal {
+public class Lion extends Feline {
 
     public void wydajDzwiek() {
         System.out.println("Eł");
